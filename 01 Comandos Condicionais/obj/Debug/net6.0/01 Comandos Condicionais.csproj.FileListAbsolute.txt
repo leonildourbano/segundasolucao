@@ -1,0 +1,15 @@
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\bin\Debug\net6.0\01 Comandos Condicionais.exe
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\bin\Debug\net6.0\01 Comandos Condicionais.deps.json
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\bin\Debug\net6.0\01 Comandos Condicionais.runtimeconfig.json
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\bin\Debug\net6.0\01 Comandos Condicionais.dll
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\bin\Debug\net6.0\01 Comandos Condicionais.pdb
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.csproj.AssemblyReference.cache
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.AssemblyInfoInputs.cache
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.AssemblyInfo.cs
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.csproj.CoreCompileInputs.cache
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.dll
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\refint\01 Comandos Condicionais.dll
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.pdb
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\01 Comandos Condicionais.genruntimeconfig.cache
+D:\CursoAspNet\SegundaSolucao\01 Comandos Condicionais\obj\Debug\net6.0\ref\01 Comandos Condicionais.dll

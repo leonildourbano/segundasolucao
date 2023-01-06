@@ -1,0 +1,15 @@
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.csproj.AssemblyReference.cache
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.AssemblyInfoInputs.cache
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.AssemblyInfo.cs
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.csproj.CoreCompileInputs.cache
+D:\CursoAspNet\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.exe
+D:\CursoAspNet\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.deps.json
+D:\CursoAspNet\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.runtimeconfig.json
+D:\CursoAspNet\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.dll
+D:\CursoAspNet\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.pdb
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.dll
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\refint\Exe01.dll
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.pdb
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.genruntimeconfig.cache
+D:\CursoAspNet\SegundaSolucao\Exe01\obj\Debug\net6.0\ref\Exe01.dll
